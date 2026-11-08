@@ -28,7 +28,9 @@ For more than 10 years I've been working remotely in distributed teams based in 
 <details>
 <summary><h2>Recent Roles</h2></summary>
 
-### Staff Compiler Engineer, Miden, 2023 to Present
+### Staff Compiler Engineer
+
+**Miden** · 2023 to Present
 
 One of the two core engineers who built the Rust compiler for the Miden VM, a zero-knowledge (ZK) virtual machine. The VM is a stack machine with no registers, no jumps and no byte-addressable memory, and it computes on field elements instead of machine integers. The standard Rust toolchain only gets us as far as WebAssembly. Everything after that is ours: an IR modeled after LLVM's MLIR, the transformation and optimization passes, and the code generator. I joined in its first months, about half of the compiler is my work, and I work across all of it. I started and own the WebAssembly frontend and everything outside developers touch: the Rust SDK, the build tooling and the releases. Today I do this work by orchestrating AI coding agents.
 
@@ -42,9 +44,13 @@ One of the two core engineers who built the Rust compiler for the Miden VM, a ze
 * Reviewed design and code across the team, interviewed candidates and mentored 2 new team members.
 * Contributed upstream to the WebAssembly ecosystem.
 
-3 years, first at Polygon and then at Miden after the spin-out. All of it is open source: https://github.com/0xMiden/compiler
+3 years, first at Polygon and then at Miden after the spin-out. All of it is open source: [0xMiden/compiler](https://github.com/0xMiden/compiler)
 
-### Senior Core Developer, Ergo Platform, 2018 to 2023
+---
+
+### Senior Core Developer
+
+**Ergo Platform** · 2018 to 2023
 
 Core developer of Ergo, an open-source blockchain with its own smart contract language. I created and led sigma-rust, the Rust implementation of the contract interpreter, cryptographic protocols, transaction building and signing that wallets build on. Before that I worked in Scala on the reference interpreter and the node.
 
@@ -56,6 +62,6 @@ Core developer of Ergo, an open-source blockchain with its own smart contract la
 * Ran the oracle pools myself and was on call for them: diagnosed outages down to the node and the contracts, and turned operator reports into fixes and releases.
 * Worked on the consensus-critical parts of the Scala interpreter: the binary serialization format, hardening the deserializer against malicious input, and the cost accounting that bounds script execution.
 
-sigma-rust is still in use 3 years after I left. All open source: https://github.com/ergoplatform/sigma-rust
+sigma-rust is still in use 3 years after I left. All open source: [ergoplatform/sigma-rust](https://github.com/ergoplatform/sigma-rust)
 
 </details>
