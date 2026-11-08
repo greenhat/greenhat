@@ -1,4 +1,4 @@
-## Staff Software Engineer | Agentic AI Engineering | Rust, Compilers, WebAssembly, SDKs, Developer Tools, Fuzzing | 0 -> 1 
+## Staff Software Engineer
 
 I have built compilers, developer tools and systems software in Rust for the last 6+ years. I usually start them from zero, ship them, and keep them working long after. For the last eight years my work has been open source.
 
