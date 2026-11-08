@@ -1,4 +1,4 @@
-# Staff Software Engineer
+## Staff Software Engineer
 
 **Rust · compilers · developer tools · open source**
 
@@ -23,7 +23,7 @@ Before that I spent almost 6 years as a core developer at **Ergo Platform**, a b
 
 ---
 
-<sub>For more than 10 years I've been working remotely in distributed teams based in the US.</sub>
+For more than 10 years I've been working remotely in distributed teams based in the US.
 
 <details>
 <summary><h2>Recent Roles</h2></summary>
