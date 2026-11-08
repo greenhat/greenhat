@@ -1,22 +1,29 @@
-## Staff Software Engineer
+# Staff Software Engineer
+
+**Rust · compilers · developer tools · open source**
 
 Available for hire.
 
 I have built compilers, developer tools and systems software in Rust for the last 6+ years. I usually start them from zero, ship them, and keep them working long after. For the last eight years my work has been open source.
 
-At Miden I am one of the two core engineers who built the Rust compiler for the Miden VM, a zero-knowledge (ZK) virtual machine. Developers outside the company use it to write smart contracts in Rust. The VM has no registers, no jumps and no machine integers, so the standard Rust toolchain only gets us as far as WebAssembly and the rest of the compiler is our own. About half of the compiler is my work, across the whole pipeline: the frontend, the IR, optimization passes and code generation. I own the WebAssembly frontend and everything outside developers touch: the Rust SDK, the build tooling and the releases. I got that job by building a Rust to ZK compiler in my own time and pitching it to the team.
+At **Miden** I am one of the two core engineers who built the Rust compiler for the Miden VM, a zero-knowledge (ZK) virtual machine. Developers outside the company use it to write smart contracts in Rust. The VM has no registers, no jumps and no machine integers, so the standard Rust toolchain only gets us as far as WebAssembly and the rest of the compiler is our own. About half of the compiler is my work, across the whole pipeline: the frontend, the IR, optimization passes and code generation. I own the WebAssembly frontend and everything outside developers touch: the Rust SDK, the build tooling and the releases. I got that job by building a Rust to ZK compiler in my own time and pitching it to the team.
 
-Before that I spent almost 6 years as a core developer at Ergo Platform, a blockchain with its own smart contract language. I created and led the Rust implementation of its contract interpreter, cryptographic protocols and transaction signing, alongside the Scala reference implementation. It ships to the web, iOS and Android, and wallets build and sign transactions with it. It is still in use 3 years after I left.
+Before that I spent almost 6 years as a core developer at **Ergo Platform**, a blockchain with its own smart contract language. I created and led the Rust implementation of its contract interpreter, cryptographic protocols and transaction signing, alongside the Scala reference implementation. It ships to the web, iOS and Android, and wallets build and sign transactions with it. It is still in use 3 years after I left.
 
-What I bring to a team:
-* Ownership from zero. I started the compiler frontend, the SDK, the test infrastructure and the release process, and kept them working as the platform changed under them.
-* Care for the user. I supported outside developers from bug report to released fix, and I treat the developer experience as part of the product.
-* Technical leadership. I led a change across 4 codebases owned by different teams, interviewed candidates, mentored new team members, ran 2 contributor bounty programs, and grew a contributor into a co-maintainer.
-* Measured results. Cut the execution cost of compiled programs by up to 48% and reduced compiled contract size by 60%.
-* Production ownership. I built a service, ran it with outside operators, built its observability (health checks, metrics and dashboards), and was on call for it.
-* AI agents as the way of working. I orchestrate AI coding agents every day. I also built an agentic fuzzer, in which AI agents search for compiler bugs, and prototyped an eval harness for AI agent skills.
+---
 
-For more than 10 years I've been working remotely in distributed teams based in the US.
+### What I bring to a team
+
+* **Ownership from zero.** I started the compiler frontend, the SDK, the test infrastructure and the release process, and kept them working as the platform changed under them.
+* **Care for the user.** I supported outside developers from bug report to released fix, and I treat the developer experience as part of the product.
+* **Technical leadership.** I led a change across 4 codebases owned by different teams, interviewed candidates, mentored new team members, ran 2 contributor bounty programs, and grew a contributor into a co-maintainer.
+* **Measured results.** Cut the execution cost of compiled programs by up to 48% and reduced compiled contract size by 60%.
+* **Production ownership.** I built a service, ran it with outside operators, built its observability (health checks, metrics and dashboards), and was on call for it.
+* **AI agents as the way of working.** I orchestrate AI coding agents every day. I also built an agentic fuzzer, in which AI agents search for compiler bugs, and prototyped an eval harness for AI agent skills.
+
+---
+
+<sub>For more than 10 years I've been working remotely in distributed teams based in the US.</sub>
 
 <details>
 <summary><h2>Recent Roles</h2></summary>
