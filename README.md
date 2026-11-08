@@ -16,7 +16,8 @@ What I bring to a team:
 
 For more than 10 years I've been working remotely in distributed teams based in the US.
 
-## Experience
+<details>
+<summary><h2>Experience</h2></summary>
 
 ### Staff Compiler Engineer, Miden, Oct 2023 to Present
 
@@ -48,3 +49,4 @@ Core developer of Ergo, an open-source blockchain with its own smart contract la
 
 sigma-rust is still in use 3 years after I left. All open source: https://github.com/ergoplatform/sigma-rust
 
+</details>
