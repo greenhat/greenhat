@@ -1,5 +1,7 @@
 ## Staff Software Engineer
 
+Available for hire.
+
 I have built compilers, developer tools and systems software in Rust for the last 6+ years. I usually start them from zero, ship them, and keep them working long after. For the last eight years my work has been open source.
 
 At Miden I am one of the two core engineers who built the Rust compiler for the Miden VM, a zero-knowledge (ZK) virtual machine. Developers outside the company use it to write smart contracts in Rust. The VM has no registers, no jumps and no machine integers, so the standard Rust toolchain only gets us as far as WebAssembly and the rest of the compiler is our own. About half of the compiler is my work, across the whole pipeline: the frontend, the IR, optimization passes and code generation. I own the WebAssembly frontend and everything outside developers touch: the Rust SDK, the build tooling and the releases. I got that job by building a Rust to ZK compiler in my own time and pitching it to the team.
@@ -35,7 +37,7 @@ One of the two core engineers who built the Rust compiler for the Miden VM, a ze
 
 3 years, first at Polygon and then at Miden after the spin-out. All of it is open source: https://github.com/0xMiden/compiler
 
-### Senior Core Developer (Rust, Scala), Ergo Platform, 2018 to 2023
+### Senior Core Developer, Ergo Platform, 2018 to 2023
 
 Core developer of Ergo, an open-source blockchain with its own smart contract language. I created and led sigma-rust, the Rust implementation of the contract interpreter, cryptographic protocols, transaction building and signing that wallets build on. Before that I worked in Scala on the reference interpreter and the node.
 
