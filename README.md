@@ -1,6 +1,6 @@
 ## Staff Software Engineer
 
-**Rust · compilers · developer tools · open source**
+**Rust · compilers · WebAssembly · VM · developer tools · agentic AI**
 
 Available for hire.
 
