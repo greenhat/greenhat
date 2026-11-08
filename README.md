@@ -18,7 +18,7 @@ Before that I spent almost 6 years as a core developer at **Ergo Platform**, a b
 * **Care for the user.** I supported outside developers from bug report to released fix, and I treat the developer experience as part of the product.
 * **Technical leadership.** I led a change across 4 codebases owned by different teams, interviewed candidates, mentored new team members, ran 2 contributor bounty programs, and grew a contributor into a co-maintainer.
 * **Measured results.** Cut the execution cost of compiled programs by up to 48% and reduced compiled contract size by 60%.
-* **Production ownership.** I built [a service](https://github.com/ergoplatform/oracle-core), ran it with outside operators, built its observability (health checks, metrics and dashboards), and was on call for it.
+* **Production ownership.** I built a [service](https://github.com/ergoplatform/oracle-core), ran it with outside operators, built its observability (health checks, metrics and dashboards), and was on call for it.
 * **AI agents as the way of working.** I orchestrate AI coding agents every day. I also built an [agentic fuzzer](https://github.com/0xMiden/compiler/tree/main/tools/fuzza-agent), in which AI agents search for compiler bugs, and prototyped an [eval harness](https://github.com/greenhat/miden-skill-evals) for AI agent skills.
 
 ---
