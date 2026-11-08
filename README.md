@@ -17,7 +17,7 @@ What I bring to a team:
 For more than 10 years I've been working remotely in distributed teams based in the US.
 
 <details>
-<summary><h2>Experience</h2></summary>
+<summary><h2>Recent Roles</h2></summary>
 
 ### Staff Compiler Engineer, Miden, Oct 2023 to Present
 
