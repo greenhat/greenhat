@@ -2,7 +2,7 @@
 
 **Rust · compilers · WebAssembly · VM · developer tools · agentic AI**
 
-Available for hire: [dennis@zadorozhnyi.com](mailto:dennis@zadorozhnyi.com)
+Available for hire: [denys@zadorozhnyi.com](mailto:denys@zadorozhnyi.com)
 
 I have built compilers, developer tools and systems software in Rust for the last 6+ years. I usually start them from zero, ship them, and keep them working long after. For the last eight years my work has been open source.
 
