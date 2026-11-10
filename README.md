@@ -13,7 +13,9 @@ Before that I spent almost 6 years as a core developer at **Ergo Platform**, a b
 For more than 10 years I've been working remotely in distributed teams based in the US.
 
 <details>
-<summary><h2>What I bring to a team</h2></summary>
+<summary><h2>Strengths and Recent Roles</h2></summary>
+
+### What I bring to a team
 
 * **Ownership from zero.** I started the compiler frontend, the SDK, the test infrastructure and the release process, and kept them working as the platform changed under them.
 * **Care for the user.** I supported outside developers from bug report to released fix, and I treat the developer experience as part of the product.
@@ -22,10 +24,7 @@ For more than 10 years I've been working remotely in distributed teams based in 
 * **Production ownership.** I built a service, ran it with outside operators, built its observability (health checks, metrics and dashboards), and was on call for it.
 * **AI agents as the way of working.** I orchestrate AI coding agents every day. I also built an [agentic fuzzer](https://github.com/0xMiden/compiler/tree/main/tools/fuzza-agent), in which AI agents search for compiler bugs, and prototyped an [eval harness](https://github.com/greenhat/miden-skill-evals) for AI agent skills.
 
-</details>
-
-<details>
-<summary><h2>Recent Roles</h2></summary>
+---
 
 ### Staff Compiler Engineer
 
