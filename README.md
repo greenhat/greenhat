@@ -10,9 +10,10 @@ At **Miden** I am one of the two core engineers who built the [Rust compiler](ht
 
 Before that I spent almost 6 years as a core developer at **Ergo Platform**, a blockchain with its own smart contract language. I created and led the [Rust implementation](https://github.com/ergoplatform/sigma-rust) of its contract interpreter, cryptographic protocols and transaction signing, alongside the [Scala reference implementation](https://github.com/ergoplatform/sigmastate-interpreter). It ships to the web, iOS and Android, and wallets build and sign transactions with it. It is still in use 3 years after I left.
 
----
+For more than 10 years I've been working remotely in distributed teams based in the US.
 
-### What I bring to a team
+<details>
+<summary><h2>What I bring to a team</h2></summary>
 
 * **Ownership from zero.** I started the compiler frontend, the SDK, the test infrastructure and the release process, and kept them working as the platform changed under them.
 * **Care for the user.** I supported outside developers from bug report to released fix, and I treat the developer experience as part of the product.
@@ -21,9 +22,7 @@ Before that I spent almost 6 years as a core developer at **Ergo Platform**, a b
 * **Production ownership.** I built a service, ran it with outside operators, built its observability (health checks, metrics and dashboards), and was on call for it.
 * **AI agents as the way of working.** I orchestrate AI coding agents every day. I also built an [agentic fuzzer](https://github.com/0xMiden/compiler/tree/main/tools/fuzza-agent), in which AI agents search for compiler bugs, and prototyped an [eval harness](https://github.com/greenhat/miden-skill-evals) for AI agent skills.
 
----
-
-For more than 10 years I've been working remotely in distributed teams based in the US.
+</details>
 
 <details>
 <summary><h2>Recent Roles</h2></summary>
