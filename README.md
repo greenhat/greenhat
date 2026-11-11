@@ -52,7 +52,7 @@ I'm one of the two core engineers who built the Rust compiler for the Miden VM, 
 
 I was a core developer of Ergo, an open-source smart contract platform for financial applications, built on zero-knowledge proofs. I created and led sigma-rust. It's the Rust implementation of the contract interpreter, cryptographic protocols, transaction building and signing, and wallets are built on it. Before that I worked in Scala on the reference interpreter and the node.
 
-- Started sigma-rust from zero and maintained it. I did the roadmap, the releases, the design decisions and the review of most outside contributions.
+- Led sigma-rust for more than 3 years. I did the roadmap and the design decisions, and reviewed pull requests from 24 outside contributors.
 - Architected sigma-rust as one Rust core shipped to 3 platforms through WebAssembly/JavaScript, C/Swift (iOS) and JNI (Android) bindings. The Yoroi and Nautilus wallets use it.
 - Initiated and ran 2 contributor bounty programs. I wrote 92 issues as self-contained specs and reviewed the work. Grew one contributor into a co-maintainer.
 - Led the new oracle application that posts price data on chain. It was built from the ground up: on-chain contracts, an off-chain application and a public mainnet run with outside operators.
