@@ -22,7 +22,8 @@ For more than 10 years I've been working remotely in distributed teams based in 
 - **I lead technical work.** I led a change across 4 codebases owned by different teams, interviewed candidates, mentored new team members, ran 2 contributor bounty programs and grew a contributor into a co-maintainer.
 - **I measure the results.** The execution cost of compiled programs went down by up to 48% and the compiled contract size by 60%.
 - **I own what I run in production.** I built [a service](https://github.com/ergoplatform/oracle-core), ran it with outside operators, built its observability (health checks, metrics and dashboards) and was on call for it.
-- **I work with AI coding agents every day.** I also built an [agentic fuzzer](https://github.com/0xMiden/compiler/tree/main/tools/fuzza-agent) where AI agents search for compiler bugs, and prototyped an [eval harness](https://github.com/greenhat/miden-skill-evals) for AI agent skills.
+- **I write code by orchestrating AI coding agents.** I work out the design with an agent, a team of agents implements it and reviews it adversarially, and I do the final review and validation.
+- **I build agentic AI systems.** I designed and built an [agentic fuzzer](https://github.com/0xMiden/compiler/tree/main/tools/fuzza-agent) where AI agents search for compiler bugs, shaped the AI agent skills for the platform and prototyped an [eval harness](https://github.com/greenhat/miden-skill-evals) to score them.
 
 ---
 
